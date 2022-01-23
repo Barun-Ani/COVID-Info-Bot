@@ -16,4 +16,5 @@ This is a chatbot that will give answers to most of your corona related question
 * QnA Maker
 
 ## Other Azure Technologies:
-HTML & CSS
+* HTML 
+* CSS
